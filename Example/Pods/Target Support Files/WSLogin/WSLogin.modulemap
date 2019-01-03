@@ -1,0 +1,6 @@
+framework module WSLogin {
+  umbrella header "WSLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
